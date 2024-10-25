@@ -37,6 +37,7 @@ This is a web application designed to streamline the scholarship documentation p
    * Upload their relevant documents.
    * Track the status of applications.
 
+**Builtt using:**
 Frontend: HTML
 Backend: Flask
 Database: SQLite
