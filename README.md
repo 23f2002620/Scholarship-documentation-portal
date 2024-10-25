@@ -1,23 +1,22 @@
-This is a web application designed to streamline the scholarship application process for students and simplify the review process for administrators. Key features include:
+This is a web application designed to streamline the scholarship documentation process for students. Key features include:
 
-* **User-friendly interface:** Easy-to-navigate platform for both students and administrators.
-* **Comprehensive scholarship database:** Centralized repository of various scholarships.
-* **Eligibility checker:** Automated tool to match students with eligible scholarships.
+* **User-friendly interface:** Easy-to-navigate platform for students.
 * **Secure application process:** Robust security measures to protect sensitive information.
-* **Efficient review system:** Streamlined workflow for administrators to review applications.
+* **Efficient Tracking system:** Streamlined workflow for students to track the applications.
 
 ### **Installation**
 
 **Prerequisites:**
 
-* Node.js and npm (or yarn)
-* A database (e.g., PostgreSQL, MySQL)
+* HTML
+* Python with Flask
+* SQLite
 
 **Steps:**
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/scholarship-portal.git
+   git clone https://github.com/Saravanan-039/Scholarship-documentation-portal
    ```
 2. **Install dependencies:**
    ```bash
@@ -33,18 +32,10 @@ This is a web application designed to streamline the scholarship application pro
    ```bash
    npm start
    ```
-1. **Student:**
-   * Register or log in to the portal.
-   * Browse through available scholarships.
-   * Use the eligibility checker to find suitable scholarships.
-   * Apply for selected scholarships by filling out online forms.
-   * Track the status of applications.
 
-2. **Administrator:**
-   * Log in to the admin dashboard.
-   * Add and manage scholarships.
-   * Review applications and make decisions.
-   * Generate reports and analytics.
+   * Students log in to the portal.
+   * Upload their relevant documents.
+   * Track the status of applications.
 
 Frontend: HTML
 Backend: Flask
