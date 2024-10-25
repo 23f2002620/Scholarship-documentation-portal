@@ -21,26 +21,21 @@ This is a web application designed to streamline the scholarship documentation p
 2. **Install dependencies:**
    ```bash
    cd scholarship-portal
-   npm install
-   ```
-3. **Configure environment variables:**
-   Create a `.env` file and set the following variables:
-   ```
-   DATABASE_URL=postgres://user:password@host:port/database_name
    ```
 4. **Start the development server:**
    ```bash
-   npm start
+   py app
    ```
 
    * Students log in to the portal.
    * Upload their relevant documents.
    * Track the status of applications.
 
-**Builtt using:**
-Frontend: HTML
-Backend: Flask
-Database: SQLite
+**Built using:**
+
+   * Frontend: HTML
+   * Backend: Flask
+   * Database: SQLite
 
 We welcome contributions to improve this project. Please follow these guidelines:
 
