@@ -46,9 +46,9 @@ This is a web application designed to streamline the scholarship application pro
    * Review applications and make decisions.
    * Generate reports and analytics.
 
-* **Frontend:** HTML
-* **Backend:** Flask
-* **Database:** PostgreSQL
+Frontend: HTML
+Backend: Flask
+Database: SQLite
 
 We welcome contributions to improve this project. Please follow these guidelines:
 
