@@ -52,10 +52,10 @@ This is a web application designed to streamline the scholarship documentation p
    4. Push your changes to your forked repository.
    5. Submit a pull request to the main repository.
 
-License
+### License
 MIT License
 
-Acknowledgments
+### Acknowledgments
 Thanks to all the contributors.
 Contact Information
-For support or questions, please contact [your_email@example.com].
+For support or questions, please contact saravanank171205@gmail.com .
