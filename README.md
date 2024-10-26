@@ -1,46 +1,61 @@
+# Scholarship Documentation Portal
+
+## Description
 This is a web application designed to streamline the scholarship documentation process for students. Key features include:
+- User-friendly interface
+- Secure application process
+- Efficient tracking system
 
-* **User-friendly interface:** Easy-to-navigate platform for students.
-* **Secure application process:** Robust security measures to protect sensitive information.
-* **Efficient Tracking system:** Streamlined workflow for students to track the applications.
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact Information](#contact-information)
 
-### **Installation**
+## Features
+- User-friendly interface
+- Secure application process
+- Efficient tracking system for applications
 
-**Prerequisites:**
+## Installation
 
-* HTML
-* Python with Flask
-* SQLite
+### Prerequisites
+- HTML
+- Python with Flask
+- SQLite
 
-**Steps:**
-
-1. **Clone the repository:**
+### Steps
+1. Clone the repository:
    ```bash
    git clone https://github.com/Saravanan-039/Scholarship-documentation-portal
    ```
-2. **Install dependencies:**
-   ```bash
+2. Install dependencies:
+    ```bash
    cd scholarship-portal
-   ```
-4. **Start the development server:**
-   ```bash
-   py app
-   ```
+   pip install -r requirements.txt
+    ```
+3. Start the development server:
+    ```bash
+   python app.py
+     ```
+### Usage
+- Students can log in to the portal, upload their documents, and track the status of their applications.
 
-   * Students log in to the portal.
-   * Upload their relevant documents.
-   * Track the status of applications.
+### Contributing
+- We welcome contributions to improve this project. Please follow these guidelines:
+   1. Fork the repository.
+   2. Create a new branch for your feature or bug fix.
+   3. Make your changes and commit them.
+   4. Push your changes to your forked repository.
+   5. Submit a pull request to the main repository.
 
-**Built using:**
+License
+MIT License
 
-   * Frontend: HTML
-   * Backend: Flask
-   * Database: SQLite
-
-We welcome contributions to improve this project. Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
+Acknowledgments
+Thanks to all the contributors.
+Contact Information
+For support or questions, please contact [your_email@example.com].
