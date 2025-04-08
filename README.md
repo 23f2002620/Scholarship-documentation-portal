@@ -13,7 +13,6 @@ This is a web application designed to streamline the scholarship documentation p
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Contact Information](#contact-information)
 
 ## Features
 - User-friendly interface
